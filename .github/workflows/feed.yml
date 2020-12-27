@@ -1,19 +1,18 @@
-# This is a basic workflow to help you get started with Actions
-
-name: Update feed
-
-# Controls when the action will run. 
 on:
   schedule:
-    - cron: '0 * * * *'
-      
+    - cron: "0 * * * *"
+
 jobs:
-  update-readme-commits:
-    name: Update repo readme with latest commits
+  unsplash_stats_job:
     runs-on: ubuntu-latest
+    name: Updates feeds and stats
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Github projects contributer
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: GITHUB
-          feel_list: "https://github.com/junqili259.atom"
+          feed_list: "https://github.com/junqili259.atom"
