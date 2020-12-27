@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### Recent commits
+<!-- GITHUB:START -->
+<!-- GITHUB:END -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junqili259&show_icons=true&theme=tokyonight)
