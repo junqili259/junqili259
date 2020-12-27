@@ -15,5 +15,6 @@ jobs:
       - name: Github projects contributer
         uses: gautamkrishnar/blog-post-workflow@master
         with:
+          max_post_count: 4
           comment_tag_name: GITHUB
           feed_list: "https://github.com/junqili259.atom"
