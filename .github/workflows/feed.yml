@@ -16,4 +16,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: GITHUB
-          feel_list: https://github.com/junqili259.atom
+          feel_list: "https://github.com/junqili259.atom"
