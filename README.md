@@ -23,7 +23,7 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junqili259&show_icons=true&theme=tokyonight)
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junqili259" alt="junqili259" /></a> </p>
 ## Contact
 junqili259@gmail.com
 
