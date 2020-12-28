@@ -26,6 +26,3 @@ Welcome to my github and feel free to take a look around. You may email me about
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junqili259" alt="junqili259" /></a> </p>
 ## Contact
 junqili259@gmail.com
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junqili259" alt="junqili259" /></a> </p>
