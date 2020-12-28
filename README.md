@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=junqili259.visitor-badge)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=junqili259&label=Profile%20views&color=0e75b6&style=flat" alt="junqili259" /> </p>
 <h1 align="center">Hi 👋, I'm Jun Qi Li</h1>
 <h3 align="center">A passionate developer from New York</h3>
 Welcome to my github and feel free to take a look around. You may email me about any of my projects :D. Stay tune for cooler stuff on the way. Hope you enjoy your stay!
@@ -27,12 +27,5 @@ Welcome to my github and feel free to take a look around. You may email me about
 ## Contact
 junqili259@gmail.com
 
-<h1 align="center">Hi 👋, I'm Jun Qi Li</h1>
-<h3 align="center">A passionate developer from New York</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=junqili259&label=Profile%20views&color=0e75b6&style=flat" alt="junqili259" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junqili259" alt="junqili259" /></a> </p>
-
-- 📫 How to reach me **junqili259@gmail.com**
-
