@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=junqili259.visitor-badge)
 - 🔭 I’m currently working on an anime alert application to learn and to fulfill a hobby.
 - 📫 How to reach me: 
   - Email: junqili259@gmail.com 
