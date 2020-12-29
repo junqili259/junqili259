@@ -14,10 +14,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 pushed to (deleted) in (deleted)](https://github.com/junqili259/fastapi-zeit-now/compare/cd6c3c042f...8adad606c0)
+- [junqili259 forked junqili259/fastapi-zeit-now from paul121/fastapi-zeit-now](https://github.com/junqili259/fastapi-zeit-now)
 - [junqili259 starred Kitura/Kitura](https://github.com/Kitura/Kitura)
 - [junqili259 pushed to main in junqili259/junqili259](https://github.com/junqili259/junqili259/compare/6870a218ca...e984aa5a48)
-- [junqili259 made junqili259/Anime-Alert public](https://github.com/junqili259/Anime-Alert)
-- [junqili259 made junqili259/Anime-Alert-api public](https://github.com/junqili259/Anime-Alert-api)
 <!-- GITHUB:END -->
 
 
