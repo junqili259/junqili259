@@ -14,10 +14,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent commits
 <!-- GITHUB:START -->
+- [junqili259 made junqili259/Anime-Alert public](https://github.com/junqili259/Anime-Alert)
 - [junqili259 made junqili259/Anime-Alert-api public](https://github.com/junqili259/Anime-Alert-api)
 - [junqili259 made junqili259/junqili259 public](https://github.com/junqili259/junqili259)
 - [junqili259 deleted branch branch at junqili259/PrepEats](https://github.com/)
-- [junqili259 pushed to master in junqili259/PrepEats](https://github.com/junqili259/PrepEats/compare/42d06a2dd9...41db0aad7a)
 <!-- GITHUB:END -->
 
 
