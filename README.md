@@ -14,10 +14,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
-- [junqili259 deleted branch readme at junqili259/Anime-Alert-serverless](https://github.com/)
-- [junqili259 pushed to master in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/compare/c30078444c...b121451a57)
-- [junqili259 merged a pull request in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/pull/1)
-- [junqili259 opened a pull request in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/pull/1)
+- [junqili259 made junqili259/Anime-Alert-serverless public](https://github.com/junqili259/Anime-Alert-serverless)
+- [junqili259 pushed to master in junqili259/Anime-Alert](https://github.com/junqili259/Anime-Alert/compare/699fe82c22...49d2638368)
+- [junqili259 pushed to master in junqili259/Anime-Alert](https://github.com/junqili259/Anime-Alert/compare/e61d13988c...699fe82c22)
+- [junqili259 pushed to master in junqili259/Anime-Alert](https://github.com/junqili259/Anime-Alert/compare/4d36ffb327...e61d13988c)
 <!-- GITHUB:END -->
 
 
