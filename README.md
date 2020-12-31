@@ -14,10 +14,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 created a branch delete-button in junqili259/Anime-Alert](https://github.com/junqili259/Anime-Alert/compare/delete-button)
 - [junqili259 made junqili259/Anime-Alert-serverless public](https://github.com/junqili259/Anime-Alert-serverless)
 - [junqili259 pushed to master in junqili259/Anime-Alert](https://github.com/junqili259/Anime-Alert/compare/699fe82c22...49d2638368)
 - [junqili259 pushed to master in junqili259/Anime-Alert](https://github.com/junqili259/Anime-Alert/compare/e61d13988c...699fe82c22)
-- [junqili259 pushed to master in junqili259/Anime-Alert](https://github.com/junqili259/Anime-Alert/compare/4d36ffb327...e61d13988c)
 <!-- GITHUB:END -->
 
 
