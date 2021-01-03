@@ -14,10 +14,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 created a branch placeholder-icons in junqili259/Anime-Alert](https://github.com/junqili259/Anime-Alert/compare/placeholder-icons)
 - [junqili259 deleted branch delete-button at junqili259/Anime-Alert](https://github.com/)
 - [junqili259 pushed to master in junqili259/Anime-Alert](https://github.com/junqili259/Anime-Alert/compare/49d2638368...deae24a1a8)
 - [junqili259 merged a pull request in junqili259/Anime-Alert](https://github.com/junqili259/Anime-Alert/pull/25)
-- [junqili259 pushed to delete-button in junqili259/Anime-Alert](https://github.com/junqili259/Anime-Alert/compare/ea050212e2...0a9dee915b)
 <!-- GITHUB:END -->
 
 
