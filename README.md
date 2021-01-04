@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
-- [junqili259 pushed to fixes in junqili259/junqili259](https://github.com/junqili259/junqili259/compare/883ae22ec2...c7de66db1b)
-- [junqili259 pushed to fixes in junqili259/junqili259](https://github.com/junqili259/junqili259/compare/39b74f6347...840b74a655)
-- [junqili259 pushed to fixes in junqili259/junqili259](https://github.com/junqili259/junqili259/compare/b28b4e135c...1fe2222c2e)
-- [junqili259 pushed to fixes in junqili259/junqili259](https://github.com/junqili259/junqili259/compare/d1b4a731a3...59eeebfc7e)
+- [junqili259 deleted branch fixes at junqili259/junqili259](https://github.com/)
+- [junqili259 pushed to main in junqili259/junqili259](https://github.com/junqili259/junqili259/compare/2d6185ddcd...b3be5499c0)
+- [junqili259 merged a pull request in junqili259/junqili259](https://github.com/junqili259/junqili259/pull/1)
+- [junqili259 opened a pull request in junqili259/junqili259](https://github.com/junqili259/junqili259/pull/1)
 <!-- GITHUB:END -->
 
 
