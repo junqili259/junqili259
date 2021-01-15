@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 pushed to master in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/compare/b654d93e8e...438925b42b)
+- [junqili259 pushed to master in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/compare/e2ce97de75...b654d93e8e)
 - [junqili259 starred NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
 - [junqili259 pushed to master in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/compare/59a118974f...e2ce97de75)
-- [junqili259 pushed to master in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/compare/b121451a57...59a118974f)
-- [junqili259 pushed to master in junqili259/Anime-Alert](https://github.com/junqili259/Anime-Alert/compare/deae24a1a8...8a05ccea08)
 <!-- GITHUB:END -->
 
 
