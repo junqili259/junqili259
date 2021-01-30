@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 starred Budibase/budibase](https://github.com/Budibase/budibase)
 - [junqili259 pushed to master in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/compare/bcff77270b...416b274534)
 - [junqili259 pushed to master in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/compare/438925b42b...bcff77270b)
 - [junqili259 pushed to master in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/compare/b654d93e8e...438925b42b)
-- [junqili259 pushed to master in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/compare/e2ce97de75...b654d93e8e)
 <!-- GITHUB:END -->
 
 
