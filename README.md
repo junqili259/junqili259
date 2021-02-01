@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 starred poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 - [junqili259 deleted branch update-readme at junqili259/reviewing-a-pull-request](https://github.com/)
 - [junqili259 pushed to main in junqili259/reviewing-a-pull-request](https://github.com/junqili259/reviewing-a-pull-request/compare/8c5cf0e4ea...42521ebd5a)
 - [junqili259 merged a pull request in junqili259/reviewing-a-pull-request](https://github.com/junqili259/reviewing-a-pull-request/pull/4)
-- [junqili259 pushed to update-readme in junqili259/reviewing-a-pull-request](https://github.com/junqili259/reviewing-a-pull-request/compare/5a65f28519...7c38e13976)
 <!-- GITHUB:END -->
 
 
