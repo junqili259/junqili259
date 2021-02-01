@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
-- [junqili259 starred Budibase/budibase](https://github.com/Budibase/budibase)
-- [junqili259 pushed to master in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/compare/bcff77270b...416b274534)
-- [junqili259 pushed to master in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/compare/438925b42b...bcff77270b)
-- [junqili259 pushed to master in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/compare/b654d93e8e...438925b42b)
+- [junqili259 deleted branch update-readme at junqili259/reviewing-a-pull-request](https://github.com/)
+- [junqili259 pushed to main in junqili259/reviewing-a-pull-request](https://github.com/junqili259/reviewing-a-pull-request/compare/8c5cf0e4ea...42521ebd5a)
+- [junqili259 merged a pull request in junqili259/reviewing-a-pull-request](https://github.com/junqili259/reviewing-a-pull-request/pull/4)
+- [junqili259 pushed to update-readme in junqili259/reviewing-a-pull-request](https://github.com/junqili259/reviewing-a-pull-request/compare/5a65f28519...7c38e13976)
 <!-- GITHUB:END -->
 
 
