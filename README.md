@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 created a branch edit-query in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/compare/edit-query)
 - [junqili259 made junqili259/Anime-Alert-RN public](https://github.com/junqili259/Anime-Alert-RN)
 - [junqili259 pushed to test_workflow in junqili259/Anime-Alert-RN](https://github.com/junqili259/Anime-Alert-RN/compare/ebfe82980b...e751c3a487)
 - [junqili259 pushed to test_workflow in junqili259/Anime-Alert-RN](https://github.com/junqili259/Anime-Alert-RN/compare/dc8e76c93d...ebfe82980b)
-- [junqili259 starred poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 <!-- GITHUB:END -->
 
 
