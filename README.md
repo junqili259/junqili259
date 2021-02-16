@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
-- [junqili259 starred miguelgrinberg/Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO)
-- [junqili259 deleted branch edit-query at junqili259/Anime-Alert-serverless](https://github.com/)
-- [junqili259 pushed to master in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/compare/416b274534...e9e5e9f375)
-- [junqili259 merged a pull request in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/pull/2)
+- [junqili259 created a branch master in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/master)
+- [junqili259 created a repository junqili259/electric-eagles](https://github.com/junqili259/electric-eagles//)
+- [junqili259 created a branch main in (deleted)](https://github.com/junqili259/electric-eagles/compare/main)
+- [junqili259 created a repository junqili259/electric-eagles](https://github.com/junqili259/electric-eagles//)
 <!-- GITHUB:END -->
 
 
