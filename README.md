@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
-- [junqili259 pushed to junqili259-patch-1 in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/a4f8cc0374...f0e3c52f30)
-- [junqili259 opened a pull request in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/pull/1)
-- [junqili259 created a branch junqili259-patch-1 in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/junqili259-patch-1)
-- [junqili259 starred expo-community/expo-firebase-starter](https://github.com/expo-community/expo-firebase-starter)
+- [junqili259 deleted branch folder-setup at junqili259/electric-eagles](https://github.com/)
+- [junqili259 created a branch folder-setup in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/folder-setup)
+- [junqili259 deleted branch junqili259-patch-1 at junqili259/electric-eagles](https://github.com/)
+- [junqili259 pushed to master in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/f01942ec1d...13c97533ae)
 <!-- GITHUB:END -->
 
 
