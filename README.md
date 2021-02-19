@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
-- [junqili259 pushed to firebase-auth in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/adc768610b...f46d10e36c)
-- [junqili259 pushed to firebase-auth in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/8a17fcab39...adc768610b)
-- [junqili259 created a branch firebase-auth in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/firebase-auth)
-- [junqili259 deleted branch folder-setup at junqili259/electric-eagles](https://github.com/)
+- [junqili259 pushed to firebase-auth in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/4474a8065c...686bc3ec8c)
+- [junqili259 pushed to firebase-auth in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/c798f91afb...4474a8065c)
+- [junqili259 pushed to firebase-auth in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/66bdbf3b67...c798f91afb)
+- [junqili259 pushed to firebase-auth in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/f46d10e36c...66bdbf3b67)
 <!-- GITHUB:END -->
 
 
