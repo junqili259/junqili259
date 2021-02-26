@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 pushed to master in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/5eb1c8e71b...97cab82863)
+- [junqili259 merged a pull request in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/pull/5)
+- [junqili259 pushed to firebase-auth in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/fedee3d3b4...197b2ae97f)
 - [junqili259 added SoumikBarua to junqili259/electric-eagles](https://github.com/junqili259/electric-eagles)
-- [junqili259 pushed to firebase-auth in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/954d894d55...fedee3d3b4)
-- [junqili259 opened a pull request in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/pull/5)
-- [junqili259 pushed to firebase-auth in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/4454f8d5e7...954d894d55)
 <!-- GITHUB:END -->
 
 
