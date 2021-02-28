@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 created a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/Home)
+- [junqili259 pushed to tabbar in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/f85f33ccbb...5257199211)
 - [junqili259 pushed to tabbar in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/d7fa6e6a06...f85f33ccbb)
 - [junqili259 pushed to tabbar in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/7025fd7d99...d7fa6e6a06)
-- [junqili259 opened a pull request in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/pull/8)
-- [junqili259 created a branch tabbar in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/tabbar)
 <!-- GITHUB:END -->
 
 
