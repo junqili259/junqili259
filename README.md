@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
-- [junqili259 pushed to tabbar in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/023d8beb46...54e467df82)
-- [junqili259 pushed to tabbar in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/4535e383b6...023d8beb46)
-- [junqili259 pushed to tabbar in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/5257199211...4535e383b6)
-- [junqili259 created a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/Form-Components)
+- [junqili259 deleted branch tabbar at junqili259/electric-eagles](https://github.com/)
+- [junqili259 pushed to master in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/97cab82863...c3227f97fe)
+- [junqili259 merged a pull request in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/pull/8)
+- [junqili259 closed an issue in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/issues/7)
 <!-- GITHUB:END -->
 
 
