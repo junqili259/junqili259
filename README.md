@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 created a branch face-id in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/face-id)
 - [junqili259 edited a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/Navigation-Flowchart)
 - [junqili259 edited a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/Navigation-Flowchart)
 - [junqili259 edited a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/Navigation-Flowchart)
-- [junqili259 created a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/Navigation-Flowchart)
 <!-- GITHUB:END -->
 
 
