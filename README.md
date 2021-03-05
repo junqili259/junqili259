@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 edited a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/Form-Components)
+- [junqili259 created a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/Form-Components)
+- [junqili259 created a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/General-Components)
 - [junqili259 opened a pull request in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/pull/9)
-- [junqili259 pushed to face-id in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/d5aaf207f0...b85f5284d7)
-- [junqili259 pushed to face-id in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/d8055cf55f...d5aaf207f0)
-- [junqili259 pushed to face-id in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/d986188525...d8055cf55f)
 <!-- GITHUB:END -->
 
 
