@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
-- [junqili259 opened an issue in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/issues/11)
-- [junqili259 deleted branch face-id at junqili259/electric-eagles](https://github.com/)
-- [junqili259 opened a pull request in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/pull/10)
-- [junqili259 created a branch roles-system in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/roles-system)
+- [junqili259 pushed to roles-system in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/3682411aa6...622cd542b5)
+- [junqili259 opened a pull request in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/pull/13)
+- [junqili259 pushed to roles-system in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/5822a15ad9...3682411aa6)
+- [junqili259 merged a pull request in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/pull/12)
 <!-- GITHUB:END -->
 
 
