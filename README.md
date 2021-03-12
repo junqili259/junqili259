@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 opened an issue in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/issues/11)
+- [junqili259 deleted branch face-id at junqili259/electric-eagles](https://github.com/)
 - [junqili259 opened a pull request in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/pull/10)
 - [junqili259 created a branch roles-system in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/roles-system)
-- [junqili259 created a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/How-to-add-new-modules%3F)
-- [junqili259 starred abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!-- GITHUB:END -->
 
 
