@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
-- [junqili259 pushed to roles-system in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/3682411aa6...622cd542b5)
-- [junqili259 opened a pull request in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/pull/13)
-- [junqili259 pushed to roles-system in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/5822a15ad9...3682411aa6)
-- [junqili259 merged a pull request in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/pull/12)
+- [junqili259 edited a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/Navigation-Flowchart)
+- [junqili259 edited a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/Navigation-Flowchart)
+- [junqili259 edited a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/Navigation-Flowchart)
+- [junqili259 edited a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/Navigation-Flowchart)
 <!-- GITHUB:END -->
 
 
