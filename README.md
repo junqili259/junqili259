@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 pushed to event in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/fb938001ee...120dc379d5)
 - [junqili259 pushed to event in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/2bc357b6cd...fb938001ee)
 - [junqili259 opened a pull request in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/pull/14)
 - [junqili259 created a branch event in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/event)
-- [junqili259 commented on pull request junqili259/electric-eagles#13](https://github.com/junqili259/electric-eagles/pull/13#issuecomment-798927305)
 <!-- GITHUB:END -->
 
 
