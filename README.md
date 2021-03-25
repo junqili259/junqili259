@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 pushed to event in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/18304f8585...b85d55db39)
 - [junqili259 pushed to event in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/9c7df8c616...18304f8585)
 - [junqili259 starred fabio-alss-freitas/react-native-animated-splash-screen](https://github.com/fabio-alss-freitas/react-native-animated-splash-screen)
 - [junqili259 pushed to event in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/da14f62b2a...9c7df8c616)
-- [junqili259 pushed to event in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/f3f94c4f8f...da14f62b2a)
 <!-- GITHUB:END -->
 
 
