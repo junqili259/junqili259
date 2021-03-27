@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 deleted branch profileTabScreen at junqili259/electric-eagles](https://github.com/)
 - [junqili259 pushed to event in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/659dae5e94...df486556bd)
 - [junqili259 pushed to event in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/255c8dcadc...659dae5e94)
 - [junqili259 pushed to event in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/b85d55db39...255c8dcadc)
-- [junqili259 pushed to profileTabScreen in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/c8c7c77736...772558b7e6)
 <!-- GITHUB:END -->
 
 
