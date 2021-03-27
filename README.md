@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 edited a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/General-Components)
+- [junqili259 edited a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/General-Components)
+- [junqili259 commented on pull request junqili259/electric-eagles#14](https://github.com/junqili259/electric-eagles/pull/14#issuecomment-808809350)
 - [junqili259 deleted branch profileTabScreen at junqili259/electric-eagles](https://github.com/)
-- [junqili259 pushed to event in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/659dae5e94...df486556bd)
-- [junqili259 pushed to event in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/255c8dcadc...659dae5e94)
-- [junqili259 pushed to event in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/b85d55db39...255c8dcadc)
 <!-- GITHUB:END -->
 
 
