@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 closed a pull request in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/pull/13)
 - [junqili259 edited a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/General-Components)
 - [junqili259 edited a wiki page in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/wiki/General-Components)
 - [junqili259 commented on pull request junqili259/electric-eagles#14](https://github.com/junqili259/electric-eagles/pull/14#issuecomment-808809350)
-- [junqili259 deleted branch profileTabScreen at junqili259/electric-eagles](https://github.com/)
 <!-- GITHUB:END -->
 
 
