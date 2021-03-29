@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 pushed to master in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/830ac686e0...b7b9271815)
 - [junqili259 pushed to master in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/3b86a5c21e...830ac686e0)
 - [junqili259 pushed to master in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/45b7bef49b...3b86a5c21e)
 - [junqili259 pushed to master in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/1f13cced1d...45b7bef49b)
-- [junqili259 deleted branch roles-system at junqili259/electric-eagles](https://github.com/)
 <!-- GITHUB:END -->
 
 
