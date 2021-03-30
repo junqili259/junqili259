@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
-- [junqili259 opened a pull request in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/pull/18)
-- [junqili259 created a branch event-update in junqili259/electric-eagles](https://github.com/junqili259/electric-eagles/compare/event-update)
-- [junqili259 deleted branch profileTabScreen at junqili259/electric-eagles](https://github.com/)
-- [junqili259 deleted branch event at junqili259/electric-eagles](https://github.com/)
+- [junqili259 opened a pull request in junqili259/Mercury](https://github.com/junqili259/electric-eagles/pull/18)
+- [junqili259 created a branch event-update in junqili259/Mercury](https://github.com/junqili259/electric-eagles/compare/event-update)
+- [junqili259 deleted branch profileTabScreen at junqili259/Mercury](https://github.com/)
+- [junqili259 deleted branch event at junqili259/Mercury](https://github.com/)
 <!-- GITHUB:END -->
 
 
