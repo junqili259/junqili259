@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 pushed to event-update in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/cb624d27d1...cc4a01ddf9)
 - [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/How-to-create-a-form%3F)
 - [junqili259 pushed to event-update in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/963dbeccd9...cb624d27d1)
 - [junqili259 pushed to event-update in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/ce20146f00...963dbeccd9)
-- [junqili259 opened a pull request in junqili259/Mercury](https://github.com/junqili259/electric-eagles/pull/18)
 <!-- GITHUB:END -->
 
 
