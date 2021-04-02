@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 pushed to event-update in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/68d332eb45...e4187ed4a8)
 - [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/3rd-party-component-libraries)
 - [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/Home)
 - [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/3rd-party-libraries)
-- [junqili259 created a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/3rd-party-libraries)
 <!-- GITHUB:END -->
 
 
