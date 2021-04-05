@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 closed an issue in junqili259/Mercury](https://github.com/junqili259/Mercury/issues/19)
+- [junqili259 created a branch event-update in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/event-update)
 - [junqili259 deleted branch event-update at junqili259/Mercury](https://github.com/)
 - [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/How-to-add-new-settings-to-SettingScreen%3F)
-- [junqili259 created a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/How-to-add-new-settings-to-SettingScreen)
-- [junqili259 pushed to master in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/b7b9271815...15bd14c6fe)
 <!-- GITHUB:END -->
 
 
