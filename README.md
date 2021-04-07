@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 pushed to event-update in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/b61fb41a7c...a874f708f7)
 - [junqili259 pushed to event-update in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/1a4b5c125d...b61fb41a7c)
 - [junqili259 opened a pull request in junqili259/Mercury](https://github.com/junqili259/Mercury/pull/20)
 - [junqili259 pushed to event-update in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/f760794aeb...1a4b5c125d)
-- [junqili259 deleted branch profileTabScreen at junqili259/Mercury](https://github.com/)
 <!-- GITHUB:END -->
 
 
