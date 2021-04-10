@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
-- [junqili259 starred IjzerenHein/react-native-shared-element](https://github.com/IjzerenHein/react-native-shared-element)
-- [junqili259 pushed to event-update in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/6dfa40a26f...833b440b46)
-- [junqili259 pushed to event-update in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/a094bf03c8...6dfa40a26f)
-- [junqili259 pushed to event-update in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/9360832e31...a094bf03c8)
+- [junqili259 deleted branch profileSettings at junqili259/Mercury](https://github.com/)
+- [junqili259 deleted branch event-update at junqili259/Mercury](https://github.com/)
+- [junqili259 pushed to master in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/b6f4c9aecb...62d98a18cd)
+- [junqili259 merged a pull request in junqili259/Mercury](https://github.com/junqili259/Mercury/pull/20)
 <!-- GITHUB:END -->
 
 
