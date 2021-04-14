@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 closed a pull request in junqili259/Mercury](https://github.com/junqili259/Mercury/pull/22)
 - [junqili259 pushed to deep-linking in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/e7e0d08344...f1d9abab57)
 - [junqili259 pushed to deep-linking in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/866c2190fb...e7e0d08344)
 - [junqili259 pushed to deep-linking in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/6b36f0aef6...866c2190fb)
-- [junqili259 starred airbnb/javascript](https://github.com/airbnb/javascript)
 <!-- GITHUB:END -->
 
 
