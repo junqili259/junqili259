@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 pushed to deep-linking in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/f1d9abab57...68ac6b4b36)
 - [junqili259 opened a pull request in MLH-Fellowship/batch-2-map](https://github.com/MLH-Fellowship/batch-2-map/pull/90)
 - [junqili259 pushed to main in junqili259/batch-2-map](https://github.com/junqili259/batch-2-map/compare/a4c151e3c6...02ab6f34d8)
 - [junqili259 forked junqili259/batch-2-map from MLH-Fellowship/batch-2-map](https://github.com/junqili259/batch-2-map)
-- [junqili259 pushed to (deleted) in (deleted)](https://github.com/junqili259/batch-2-map/compare/a4c151e3c6...b10de4eef8)
 <!-- GITHUB:END -->
 
 
