@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 pushed to deep-linking in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/70caef829a...38d5ba2ada)
+- [junqili259 pushed to deep-linking in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/4842dadcc9...70caef829a)
 - [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/Level-Access-Control)
 - [junqili259 pushed to deep-linking in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/ddb7572736...4842dadcc9)
-- [junqili259 pushed to deep-linking in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/68ac6b4b36...ddb7572736)
-- [junqili259 pushed to deep-linking in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/f1d9abab57...68ac6b4b36)
 <!-- GITHUB:END -->
 
 
