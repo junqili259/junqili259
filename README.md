@@ -14,9 +14,9 @@ Welcome to my github and feel free to take a look around. You may email me about
 ## Recent activity
 <!-- GITHUB:START -->
 - [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/Common-guidelines)
-- [junqili259 created a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/Common-guidelines)
-- [junqili259 deleted branch demo at junqili259/Mercury](https://github.com/)
-- [junqili259 created a branch demo in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/demo)
+- [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/Common-guidelines)
+- [junqili259 starred WrathChaos/react-native-header-view](https://github.com/WrathChaos/react-native-header-view)
+- [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/Common-guidelines)
 <!-- GITHUB:END -->
 
 
