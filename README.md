@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 made junqili259/AnimeInform public](https://github.com/junqili259/AnimeInform)
 - [junqili259 deleted branch junqili259-patch-1 at junqili259/AnimeInform](https://github.com/)
 - [junqili259 pushed to master in junqili259/AnimeInform](https://github.com/junqili259/AnimeInform/compare/8e84be6812...b6d7f27a39)
 - [junqili259 merged a pull request in junqili259/AnimeInform](https://github.com/junqili259/AnimeInform/pull/1)
-- [junqili259 pushed to junqili259-patch-1 in junqili259/AnimeInform](https://github.com/junqili259/AnimeInform/compare/3bf7735926...97d23f7822)
 <!-- GITHUB:END -->
 
 
