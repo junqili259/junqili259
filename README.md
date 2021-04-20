@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/Common-guidelines)
+- [junqili259 created a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/Common-guidelines)
+- [junqili259 deleted branch demo at junqili259/Mercury](https://github.com/)
 - [junqili259 created a branch demo in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/demo)
-- [junqili259 pushed to profileImage_fb in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/74107b2089...d029bfc784)
-- [junqili259 pushed to master in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/cdce8e9be3...79c870ff3f)
-- [junqili259 deleted branch deep-linking at junqili259/Mercury](https://github.com/)
 <!-- GITHUB:END -->
 
 
