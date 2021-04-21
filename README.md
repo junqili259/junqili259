@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
-- [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/Common-guidelines)
-- [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/Common-guidelines)
-- [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/General-Components)
-- [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/General-Components)
+- [junqili259 deleted branch dependabot/pip/cloud_proj/py-1.10.0 at junqili259/ChewsForYou](https://github.com/)
+- [junqili259 pushed to ChewsForYou_v2 in junqili259/ChewsForYou](https://github.com/junqili259/ChewsForYou/compare/be1312169d...51aaffd9a2)
+- [junqili259 merged a pull request in junqili259/ChewsForYou](https://github.com/junqili259/ChewsForYou/pull/34)
+- [junqili259 pushed to dependabot/pip/cloud_proj/py-1.10.0 in junqili259/ChewsForYou](https://github.com/junqili259/ChewsForYou/compare/73fba91e7f...ea87ff645e)
 <!-- GITHUB:END -->
 
 
