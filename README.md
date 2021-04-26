@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 deleted branch update-readme at junqili259/Mercury](https://github.com/)
 - [junqili259 made junqili259/Mercury-backend public](https://github.com/junqili259/Mercury-backend)
 - [junqili259 pushed to master in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/79c870ff3f...5d1a017bd7)
 - [junqili259 merged a pull request in junqili259/Mercury](https://github.com/junqili259/Mercury/pull/25)
-- [junqili259 pushed to update-readme in junqili259/Mercury](https://github.com/junqili259/Mercury/compare/c0a81a4baf...d1e75b8094)
 <!-- GITHUB:END -->
 
 
