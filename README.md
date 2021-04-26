@@ -14,9 +14,9 @@ Welcome to my github and feel free to take a look around. You may email me about
 ## Recent activity
 <!-- GITHUB:START -->
 - [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/General-Components)
+- [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/Home)
+- [junqili259 edited a wiki page in junqili259/Mercury](https://github.com/junqili259/Mercury/wiki/General-Components)
 - [junqili259 commented on pull request junqili259/Mercury#25](https://github.com/junqili259/Mercury/pull/25#discussion_r617980713)
-- [junqili259 commented on pull request junqili259/Mercury#25](https://github.com/junqili259/Mercury/pull/25#discussion_r617979703)
-- [junqili259 commented on pull request junqili259/Mercury#25](https://github.com/junqili259/Mercury/pull/25#discussion_r617979356)
 <!-- GITHUB:END -->
 
 
