@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 deleted branch dependabot/pip/cloud_proj/rsa-4.7 at junqili259/ChewsForYou](https://github.com/)
+- [junqili259 pushed to ChewsForYou_v2 in junqili259/ChewsForYou](https://github.com/junqili259/ChewsForYou/compare/51aaffd9a2...cba922a2e5)
+- [junqili259 merged a pull request in junqili259/ChewsForYou](https://github.com/junqili259/ChewsForYou/pull/35)
 - [junqili259 pushed to master in junqili259/AnimePlus](https://github.com/junqili259/AnimePlus/compare/0af67fcf32...11fe34b80d)
-- [junqili259 pushed to master in mattdillabough/Mercury](https://github.com/junqili259/Mercury/compare/5d1a017bd7...784403c1bd)
-- [junqili259 deleted branch dependabot/pip/urllib3-1.26.4 at mattdillabough/Mercury-backend](https://github.com/)
-- [junqili259 pushed to main in mattdillabough/Mercury-backend](https://github.com/junqili259/Mercury-backend/compare/e89405bdca...b2abf49893)
 <!-- GITHUB:END -->
 
 
