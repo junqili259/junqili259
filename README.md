@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 created a branch splash-screen in junqili259/AnimePlus](https://github.com/junqili259/AnimePlus/compare/splash-screen)
 - [junqili259 deleted branch workflow at junqili259/AnimePlus](https://github.com/)
 - [junqili259 pushed to master in junqili259/AnimePlus](https://github.com/junqili259/AnimePlus/compare/5f43c6df3c...612b93ad49)
 - [junqili259 created a branch workflow in junqili259/AnimePlus](https://github.com/junqili259/AnimePlus/compare/workflow)
-- [junqili259 pushed to master in junqili259/AnimePlus](https://github.com/junqili259/AnimePlus/compare/11fe34b80d...5f43c6df3c)
 <!-- GITHUB:END -->
 
 
