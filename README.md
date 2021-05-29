@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 starred twilio-labs/actions-sms](https://github.com/twilio-labs/actions-sms)
 - [junqili259 starred akveo/eva-icons](https://github.com/akveo/eva-icons)
 - [junqili259 pushed to master in junqili259/AnimePlus](https://github.com/junqili259/AnimePlus/compare/612b93ad49...df468bcfdb)
 - [junqili259 merged a pull request in junqili259/AnimePlus](https://github.com/junqili259/AnimePlus/pull/1)
-- [junqili259 opened a pull request in junqili259/AnimePlus](https://github.com/junqili259/AnimePlus/pull/1)
 <!-- GITHUB:END -->
 
 
