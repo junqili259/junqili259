@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 pushed to main in junqili259/Mercury-backend](https://github.com/junqili259/Mercury-backend/compare/b2abf49893...3c732e76ba)
+- [junqili259 forked junqili259/Mercury-backend from mattdillabough/Mercury-backend](https://github.com/junqili259/Mercury-backend)
+- [junqili259 starred bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [junqili259 starred shoutem/ui](https://github.com/shoutem/ui)
-- [junqili259 starred n8n-io/n8n](https://github.com/n8n-io/n8n)
-- [junqili259 starred twilio-labs/actions-sms](https://github.com/twilio-labs/actions-sms)
-- [junqili259 starred akveo/eva-icons](https://github.com/akveo/eva-icons)
 <!-- GITHUB:END -->
 
 
