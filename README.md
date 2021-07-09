@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 pushed to ixdzs in junqili259/lightnovel-crawler](https://github.com/junqili259/lightnovel-crawler/compare/639618388f...a950881478)
 - [junqili259 created a branch ixdzs in junqili259/lightnovel-crawler](https://github.com/junqili259/lightnovel-crawler/compare/ixdzs)
 - [junqili259 forked junqili259/lightnovel-crawler from dipu-bd/lightnovel-crawler](https://github.com/junqili259/lightnovel-crawler)
 - [junqili259 starred dipu-bd/lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler)
-- [junqili259 starred rsalmei/alive-progress](https://github.com/rsalmei/alive-progress)
 <!-- GITHUB:END -->
 
 
