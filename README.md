@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
-- [junqili259 starred oblador/react-native-animatable](https://github.com/oblador/react-native-animatable)
-- [junqili259 pushed to master in junqili259/Anime-Alert-serverless](https://github.com/junqili259/Anime-Alert-serverless/compare/e9e5e9f375...7aaf562275)
-- [junqili259 pushed to ixdzs in junqili259/lightnovel-crawler](https://github.com/junqili259/lightnovel-crawler/compare/1ebcb569f7...0d492c1c21)
-- [junqili259 starred pavjacko/renative](https://github.com/pavjacko/renative)
+- [junqili259 created a branch ixdzs in junqili259/lightnovel-crawler](https://github.com/junqili259/lightnovel-crawler/compare/ixdzs)
+- [junqili259 deleted branch ixdzs at junqili259/lightnovel-crawler](https://github.com/)
+- [junqili259 created a branch ixdzs in junqili259/lightnovel-crawler](https://github.com/junqili259/lightnovel-crawler/compare/ixdzs)
+- [junqili259 created a branch ixdzs2 in junqili259/lightnovel-crawler](https://github.com/junqili259/lightnovel-crawler/compare/ixdzs2)
 <!-- GITHUB:END -->
 
 
