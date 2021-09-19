@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 pushed to master in junqili259/lightnovel-crawler](https://github.com/junqili259/lightnovel-crawler/compare/ac14421690...e31ca9f227)
 - [junqili259 deleted branch ixdzs at junqili259/lightnovel-crawler](https://github.com/)
 - [junqili259 deleted branch ixdzs2 at junqili259/lightnovel-crawler](https://github.com/)
 - [junqili259 pushed to master in junqili259/lightnovel-crawler](https://github.com/junqili259/lightnovel-crawler/compare/1e48043211...ac14421690)
-- [junqili259 closed a pull request in junqili259/lightnovel-crawler](https://github.com/junqili259/lightnovel-crawler/pull/6)
 <!-- GITHUB:END -->
 
 
