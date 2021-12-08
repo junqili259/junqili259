@@ -13,10 +13,10 @@ Welcome to my github and feel free to take a look around. You may email me about
 
 ## Recent activity
 <!-- GITHUB:START -->
+- [junqili259 starred mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
+- [junqili259 starred grafana/grafana](https://github.com/grafana/grafana)
 - [junqili259 pushed to master in junqili259/lightnovel-crawler](https://github.com/junqili259/lightnovel-crawler/compare/61161ede23...80b78d9281)
 - [junqili259 starred nandorojo/moti](https://github.com/nandorojo/moti)
-- [junqili259 commented on issue mattdillabough/Mercury#26](https://github.com/mattdillabough/Mercury/issues/26#issuecomment-942607994)
-- [junqili259 pushed to master in junqili259/lightnovel-crawler](https://github.com/junqili259/lightnovel-crawler/compare/e31ca9f227...61161ede23)
 <!-- GITHUB:END -->
 
 
